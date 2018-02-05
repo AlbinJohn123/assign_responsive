@@ -1,3 +1,19 @@
 body {
-    background-color: #abcdef;
+    background-color: white;
+}
+
+@media screen and (max-width:1200px){
+    body{
+        background-color: lightsalmon;
+    }
+}
+@media screen and (max-width:750px){
+    body{
+        background-color: coral;
+    }
+}
+@media screen and (max-width:500px){
+    body{
+        background-color: skyblue;
+    }
 }
