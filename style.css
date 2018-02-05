@@ -1,9 +1,23 @@
 body {
     background-color: white;
+    text-align: center;
 }
 li{
-    margin-left:50%;
+    text-align: center;
+    
 }
+.jumbotron{
+    background-color:pink;
+}
+.nav{
+    margin-top: 10px;
+
+}
+.glyphicon{
+    
+    
+}
+
 @media screen and (max-width:1200px){
     body{
         background-color: lightsalmon;
