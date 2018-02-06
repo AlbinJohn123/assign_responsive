@@ -1,6 +1,7 @@
 body {
     background-color: white;
     text-align: center;
+    
 }
 li{
     text-align: center;
@@ -25,6 +26,7 @@ li{
     }
     p {
         color: darkkhaki;
+    
     }
 }
 @media screen and (max-width:750px){
@@ -34,6 +36,7 @@ li{
     }
     p {
         color: darkcyan;
+   
     }
     
 }
@@ -44,5 +47,6 @@ li{
     }
     p {
         color: grey;
+
     }
 }

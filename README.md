@@ -8,6 +8,9 @@ Made wells
 Tried to do collapse but do not have jquery
 Worked on offsetting elements. 
 General 3 column sizing - > 1 column sizing as it gets smaller
+added glyphicons
+added jumbotron
+used pulling to right for glyphicons
 
 Used w3Schools + https://www.youtube.com/watch?v=gqOEoUR5RHg (bootstrap tutorial) 
 
